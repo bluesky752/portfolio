@@ -1,0 +1,164 @@
+/* 헤더 */
+div.hdrWrap>div.header{
+    width: 90%;
+    max-width: 700px;
+}
+/* 메인 */
+div.mainWrap>div.main>div.texts{
+    padding-top: 300px;
+    padding-left: 441px;
+}
+div.mainWrap>div.main>div.texts>div.btn{
+    margin-top: 22px;
+}
+/* 컨텐츠 공통 */
+div.cntWrap>div.content{
+    width: 90%;
+    max-width: 700px;
+}
+/* 컨텐츠1 */
+div.cntWrap>div.content.cnt01>div.section>div.article{
+    width: calc(100% / 3 - 20px);
+    padding: 30px 25px;
+}
+/* 배너1 */
+div.bnrWrap>div.banner{
+    width: 90%;
+    max-width: 700px;
+}
+div.bnrWrap>div.banner>div.icons>p{
+    width: calc(100% / 4 * 1);
+}
+div.bnrWrap>div.banner>div.icons>i{
+    padding-left: 302px;
+}
+div.bnrWrap>div.banner>div.icons>i:nth-child(4)>:nth-child(1){
+    margin-left: -150px;
+}
+div.bnrWrap>div.banner>div.icons>i:nth-child(1){
+    margin-left: -183px;
+}
+div.lightBox>div.btn{
+    top: 35%;
+    right: 21%;
+}
+/* 컨텐츠2 */
+div.cntWrap>div.content.cnt02>div.section>div.ovrGrid{
+    width: 100vw;
+    margin-left: calc((100vw - 700px) / -2);
+    margin-top: 150px;
+    height: 230px;
+}
+div.cntWrap>div.content.cnt02>div.section>ul.btns>li>span{
+    font-size: 25px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.images>div.image.i1{
+    width: calc(100% / 7 * 6);
+}
+div.cntWrap>div.content.cnt02>div.section>div.texts{
+    margin-top: -20px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.texts>h5{
+    width: calc(100% / 12 * 5);
+}
+div.cntWrap>div.content.cnt02>div.section>ul.btns{
+    width: calc(100% / 12 * 4);
+    padding: 0px 67px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.images{
+    margin-top: -380px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.images>div.image{
+    background-size: 75%;
+}
+div.cntWrap>div.content.cnt02>div.section>div.images>div.image.i2{
+    background-size: 106%;
+    height: 218px;
+    margin-top: 44px;
+}
+
+/* 컨텐츠3 */
+div.cntWrap>div.content.cnt03>div.section>div.article>div.texts{
+    width: calc(100% / 4 * 6);
+    font-size: 30px;
+    margin-left: -247px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.texts>h3{
+    font-size: 28px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.texts>p{
+    margin-top: -150px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.texts>div.btn{
+    margin-top: -57px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.images>div.image.i2{
+    display: none;
+}
+/* 컨텐츠4 */
+div.cntWrap>div.content.cnt04>div.header>h4{
+    width: calc(100% / 12 * 4);
+    margin-top: 40px;
+}
+div.cntWrap>div.content.cnt04>div.header>h4:nth-child(3){
+    margin-top: 0px;
+}
+div.cntWrap>div.content.cnt04>div.section>div.artLeft>div.article>div.image{
+    margin-left: -161px;
+    width: 500px;
+}
+div.cntWrap>div.content.cnt04>div.section>div.artLeft>div.article>div.texts{
+    display: none;
+}
+div.cntWrap>div.content.cnt04>div.section>div.artRight>ul>li:nth-child(1){
+    width: 184px;
+    margin-left: 44px;
+}
+div.cntWrap>div.content.cnt04>div.section>div.artRight>ul>li:nth-child(2){
+    width: 184px;
+    margin-left: 44px;
+}
+div.cntWrap>div.content.cnt04>div.section>div.artRight>ul>li:nth-child(3){
+    width: 184px;
+    margin-left: 44px;
+}
+div.cntWrap>div.content.cnt04>div.section>div.artLeft>div.article>div.image>div.image.i1{
+    height: 392px;
+    width: 290px;
+    margin-left: calc((100vw - 1080px) / 2 + 375px);
+}
+/* 컨텐츠5 */
+div.cntWrap>div.content.cnt05>div.section>div.article:nth-child(1){
+    display: none;
+}
+div.cntWrap>div.content.cnt05>div.section>div.article{
+    width: calc(100% / 3 - 20px);
+    margin: 0 10px;
+}
+div.cntWrap>div.content.cnt05>div.section>div.article>div.image{
+    height: 210px;
+    border-radius: 20px;
+}
+div.cntWrap>div.content.cnt05>div.section>ul.paging{
+    width: calc(100% / 12 * 5);
+}
+div.cntWrap>div.content.cnt05>div.section>ul.paging>li.on{
+    margin-left: calc(100% / 5 * 1.7);
+}
+div.cntWrap>div.content.cnt05>div.header>h4:nth-child(3){
+    width: calc(100% / 12 * 5);
+}
+div.cntWrap>div.content div.header>h4:nth-child(3){
+    width: calc(100% / 12 * 4);
+}
+div.cntWrap>div.content.cnt05>div.section>ul.paging>li:nth-child(4){
+    display: none;
+}
+/* 푸터 */
+div.ftrWrap>div.footer{
+    width: 90%;
+    max-width: 700px;
+}
+div.ftrWrap>div.footer>div.texts{
+    font-size: 10px;
+}

@@ -1,0 +1,214 @@
+div.hdrWrap>div.header{
+    width: 90%;
+    max-width: 420px;
+}
+div.hdrWrap>div.header>ul.nav>li:nth-last-child(1){
+    display: block;
+}
+div.hdrWrap>div.header>ul.nav>li{
+    display: none;
+}
+div.mainWrap>div.main>div.texts>h2{
+    padding-top: 65px;
+    line-height: 40px;
+    font-size: 25px;
+    width: 100%;
+    margin-left: 0px;
+}
+div.mainWrap{
+    height: 280px;
+}
+div.menuWrap>div.menu{
+    width: 90%;
+    max-width: 420px;
+}
+div.cntWrap>div.content.cnt01>div.header>h2{
+    width: 100%;
+}
+div.cntWrap>div.content.cnt01>div.header>p{
+    display: none;
+}
+div.cntWrap>div.content div.header{
+    margin-top: 60px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.texts>h3{
+    width: 100%;
+}
+div.cntWrap>div.content.cnt02>div.header>h2{
+    width: 100%;
+}
+div.cntWrap>div.content.cnt02>div.header>p{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artRight>div.article>div.texts>h5{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artLeft>div.article{
+    margin-left: 20px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2{
+    margin-top: 0px;
+}
+/* 두번째아트그룹 */
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artRight>div.article>div.texts>h5{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artLeft>div.article{
+    margin-left: 20px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3{
+    margin-top: 0px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artLeft>div.article>div.texts{
+    margin-left: 0px;
+    padding: 0;
+    width: calc(100% / 2 * 0.7);
+}
+/* 세번째아트그룹 */
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artRight>div.article>div.texts>h5{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artLeft>div.article{
+    margin-left: 20px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4{
+    margin-top: 0px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artLeft>div.article>div.texts{
+    margin-left: 0px;
+    width: calc(100% / 2 * 0.7);
+    padding: 0px 10px;
+}
+/* 네번째아트그룹 */
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artRight>div.article>div.texts>h5{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artLeft>div.article{
+    margin-left: 20px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artLeft>div.article>div.texts{
+    margin-left: 0px;
+    width: calc(100% / 2 * 0.7);
+    padding: 0px
+}
+div.ftrWrap{
+    margin-top: 40px;
+    height: 140px;
+}
+div.ftrWrap>div.footer{
+    width: 90%;
+    max-width: 420px;
+    padding: 20px 0px;
+}
+div.ftrWrap>div.footer>ul.texts>li:nth-child(3){
+    display: none;
+}
+div.ftrWrap>div.footer>ul.texts>li:nth-child(1){
+    padding: 3px 23px;
+}
+div.ftrWrap>div.footer>ul.texts>li:nth-child(2){
+    padding: 0px 30px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artLeft>div.article>div.image{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artLeft>div.article>div.image{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artLeft>div.article>div.image{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artLeft>div.article>div.image{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artLeft>div.article>div.texts{
+    width: 80%;
+    font-weight: 500;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artLeft>div.article>div.texts{
+    width: 80%;
+    font-weight: 500;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artLeft>div.article>div.texts{
+    width: 80%;
+    font-weight: 500;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artLeft>div.article>div.texts{
+    width: 80%;
+    font-weight: 500;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artLeft{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artRight{
+    width: 100%;
+    margin-top: 0;
+    margin-right: 0;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artRight>div.article{
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art1>div.artRight>div.article>div.texts>h5{
+    display: block;
+}
+/* 두번째아트그룹 */
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artLeft{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artRight{
+    width: 100%;
+    margin-top: 20px;
+    margin-right: 0;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artRight>div.article{
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art2>div.artRight>div.article>div.texts>h5{
+    display: block;
+}
+/* 세번째아트그룹 */
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artLeft{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artRight{
+    width: 100%;
+    margin-top: 20px;
+    margin-right: 0;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artRight>div.article{
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art3>div.artRight>div.article>div.texts>h5{
+    display: block;
+}
+/* 네번째아트그룹 */
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artLeft{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artRight{
+    width: 100%;
+    margin-top: 20px;
+    margin-right: 0;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artRight>div.article{
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artGroup.art4>div.artRight>div.article>div.texts>h5{
+    display: block;
+}
+div.ftrWrap>div.footer>ul.texts{
+    display: none;
+}
+div.ftrWrap>div.footer>div.icons{
+    display: block;
+    padding: 10px 119px;
+    margin: 0 auto;
+}

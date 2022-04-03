@@ -1,0 +1,43 @@
+div.hdrWrap>div.header {
+    width: 90%;
+    max-width: 700px;
+}
+div.mainWrap>div.main>div.texts>p{
+    width: calc(100% / 12 * 6);
+}
+div.bnrWrap>div.banner>div.texts{
+    bottom: -1px;
+}
+div.bnrWrap>div.banner>div.texts>p{
+    display: none;
+}
+div.cntWrap{
+    width: 90%;
+    max-width: 700px;
+}
+div.cntWrap>div.content{
+    margin-top: 80px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.image{
+    height: 180px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.texts>p{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.header>div.texts{
+    width: calc(100% / 12 * 5);
+    right: calc(100% / 12 * 1);
+}
+div.cntWrap>div.content.cnt02>div.section>div.artTop>div.article div.text{
+    padding: 0px 13px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.btn{
+    width: calc(100% / 12 * 3.3);
+}
+div.ftrWrap>div.footer{
+    width: 90%;
+    max-width: 700px;
+}
+div.ftrWrap>div.footer>div.icons{
+    display: none;
+}

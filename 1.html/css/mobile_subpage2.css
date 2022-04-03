@@ -1,0 +1,95 @@
+/* 헤더 */
+div.hdrWrap>div.header{
+    width: 90%;
+    max-width: 380px;
+}
+div.hdrWrap>div.header>ul.nav>li:nth-last-child(1){
+    display: block;
+}
+div.hdrWrap>div.header>ul.nav>li{
+    display: none;
+}
+
+div.mainWrap>div.main>div.texts>p{
+    display: none;
+}
+div.mainWrap>div.main>div.texts>h2{
+    padding: calc(100% / 5);
+    width: 100%;
+}
+div.bnrWrap>div.banner>div.texts>h3{
+    font-size: 12px;
+    margin-top: 0;
+    line-height: 80px;
+}
+div.cntWrap>div.content{
+    margin-top: 60px;
+}
+div.cntWrap>div.content.cnt01>div.header>h2{
+    width: 100%;
+}
+div.cntWrap>div.content.cnt01>div.section{
+    margin-top: 0;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.image{
+    height: 140px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.texts{
+    margin-top: 0px;
+}
+div.cntWrap>div.content.cnt02>div.header>div.texts>p{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.header>div.image{
+    background-size: 164%;
+    height: 200px;
+}
+div.cntWrap>div.content.cnt02>div.header>div.texts>h3{
+    padding: 20px 0px;
+    line-height: 20px;
+    font-size: 12px;
+}
+div.cntWrap>div.content.cnt02>div.header>div.texts>ul.btn>li:nth-child(1){
+    width: calc(100% / 2);
+}
+div.cntWrap>div.content.cnt02>div.header>div.texts>ul.btn>li:nth-child(2){
+    left: calc(100% / 4 * 2.1);
+}
+div.cntWrap>div.content.cnt02>div.section{
+    margin-top: 0;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artTop>div.article:nth-child(4){
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artTop>div.article{
+    width: calc(100% / 3 - 20px);
+}
+div.cntWrap>div.content.cnt02>div.section>div.artBtm>div.article:nth-child(4){
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artBtm>div.article{
+    width: calc(100% / 3 - 20px);
+}
+div.cntWrap>div.content.cnt02>div.section>div.artTop>div.article div.image{
+    height: 170px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.artBtm>div.article div.image{
+    height: 170px;
+}
+div.cntWrap>div.content.cnt02>div.section>div.btn{
+    width: calc(100% / 12 * 5);
+    font-size: 12px;
+    padding: 11px;
+    margin: 0 auto;
+}
+div.ftrWrap{
+    margin-top: 60px;
+}
+div.ftrWrap>div.footer>ul.texts{
+    display: none;
+}
+div.ftrWrap>div.footer>div.icons{
+    display: block;
+    padding: 0px 108px;
+    margin: 0 auto;
+}
